@@ -154,6 +154,7 @@ namespace LotteryTicket
                     is1Selected = false;
                 }    
             }
+            //去上課吧88
             else////第一區取消選取
             {
                 int deletNum = Convert.ToInt32(BTNSelectedNum.Text);
